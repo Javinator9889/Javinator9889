@@ -22,8 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=javinator9889&show_icons=true&count_private=true&include_all_commits=true" alt="Javinator9889" align="right" />
 </a>
 
-- :office: &nbsp;Working at [Teldat](https://www.teldat.com/)
-- :seedling: &nbsp;I’m learning **Rust**, **Go** and new frameworks and languages!
+- :office: &nbsp;Working at [GEOTAB](https://www.geotab.com/es/)
+- :seedling: &nbsp;I’m learning **Rust**, **Go**. Actively working on embedded and testing frameworks!
 - 👯 Trying to create awesome projects!
 - :nerd_face:	Interested in DevOps, Python, Android, Kotlin multiplatform, sysadmin
 - :speech_balloon: &nbsp;I love creating new projects and continue learning
